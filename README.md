@@ -76,6 +76,7 @@ As pesquisas atuais buscam desenvolver sistemas mais avançados, incluindo conce
 | RAG | Técnica que combina busca de informações com geração de respostas. |
 | Agente de IA | Sistema capaz de executar tarefas de forma autônoma. |
 
+
 ##  Conclusão
 
 Este projeto permitiu compreender a evolução da Inteligência Artificial desde os primeiros modelos de neurônios artificiais até os modernos LLMs. A utilização do NotebookLM demonstrou como a IA pode ser empregada como ferramenta de aprendizagem ativa, auxiliando na organização do conhecimento, na pesquisa e na construção de resumos estruturados. Além do aprendizado técnico sobre IA, a experiência contribuiu para o desenvolvimento de habilidades de curadoria de conteúdo e engenharia de prompts.
