@@ -17,7 +17,7 @@ Durante a construção deste caderno temático, utilizei diferentes prompts para
 
 ### Prompt Principal
 
-"Utilizando todas as fontes fornecidas, crie um caderno temático completo sobre a evolução da Inteligência Artificial."
+Utilizando todas as fontes fornecidas, crie um caderno temático completo sobre a evolução da Inteligência Artificial, desde seus precursores até os atuais Grandes Modelos de Linguagem (LLMs), apresentando uma linha do tempo, principais pesquisadores, avanços tecnológicos e impactos na sociedade.
 
 ### Prompts Utilizados
 
