@@ -90,4 +90,6 @@ As imagens abaixo apresentam evidências da utilização do NotebookLM durante o
 
 ##  Conclusão
 
-Este projeto permitiu compreender a evolução da Inteligência Artificial desde os primeiros modelos de neurônios artificiais até os modernos LLMs. A utilização do NotebookLM demonstrou como a IA pode ser empregada como ferramenta de aprendizagem ativa, auxiliando na organização do conhecimento, na pesquisa e na construção de resumos estruturados. Além do aprendizado técnico sobre IA, a experiência contribuiu para o desenvolvimento de habilidades de curadoria de conteúdo e engenharia de prompts.
+## 🚀 Conclusão
+
+Este projeto me ajudou a entender melhor a evolução da Inteligência Artificial, desde suas origens até os modelos atuais, como os LLMs. Utilizando o NotebookLM, consegui organizar os estudos, resumir conteúdos e aprofundar meus conhecimentos sobre o tema. Além do aprendizado técnico, também aprendi a criar prompts mais eficientes para obter respostas mais claras e detalhadas, tornando o processo de estudo mais produtivo.
